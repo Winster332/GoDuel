@@ -1,0 +1,67 @@
+{
+  "Items": [
+    {
+      "index": 1,
+      "gunIndex": 1,
+      "name": "Пушкин",
+      "price": 0,
+      "description": "Русский писатель"
+    },
+    {
+      "index": 2,
+      "gunIndex": 2,
+      "name": "Хиппи",
+      "price": 3000,
+      "description": "Мир во всем мире"
+    },
+    {
+      "index": 3,
+      "gunIndex": 3,
+      "name": "Скинхед",
+      "price": 15000,
+      "description": "Анархия!"
+    },
+    {
+      "index": 4,
+      "gunIndex": 5,
+      "name": "Создатель",
+      "price": 30000,
+      "description": "Привет, дружище"
+    },
+    {
+      "index": 5,
+      "gunIndex": 8,
+      "name": "Хипстер",
+      "price": 45000,
+      "description": "Не путай с хиппи"
+    },
+    {
+      "index": 6,
+      "gunIndex": 4,
+      "name": "НЛО",
+      "price": 65000,
+      "description": "Я захвачу вас"
+    },
+    {
+      "index": 7,
+      "gunIndex": 6,
+      "name": "Эльф",
+      "price": 85000,
+      "description": "Еллоу"
+    },
+    {
+      "index": 8,
+      "gunIndex": 7,
+      "name": "Панк",
+      "price": 95000,
+      "description": "Панк-панк-анархия!"
+    },
+    {
+      "index": 9,
+      "gunIndex": 8,
+      "name": "Студент",
+      "price": 10000,
+      "description": "Учиться и учиться"
+    }
+  ]
+}

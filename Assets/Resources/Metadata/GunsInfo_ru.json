@@ -1,0 +1,44 @@
+{
+  "Items": [
+    {
+      "index": 1,
+      "name": "Револьвер",
+      "power": 0.1
+    },
+    {
+      "index": 2,
+      "name": "УЗИ",
+      "power": 0.2
+    },
+    {
+      "index": 3,
+      "name": "Дробовик",
+      "power": 0.3
+    },
+    {
+      "index": 4,
+      "name": "R83 FIN",
+      "power": 0.4
+    },
+    {
+      "index": 5,
+      "name": "Ружье",
+      "power": 0.5
+    },
+    {
+      "index": 6,
+      "name": "Винтовка",
+      "power": 0.6
+    },
+    {
+      "index": 7,
+      "name": "D. Винтовка",
+      "power": 0.7
+    },
+    {
+      "index": 8,
+      "name": "D. Револьвер",
+      "power": 0.8
+    }
+  ]
+}

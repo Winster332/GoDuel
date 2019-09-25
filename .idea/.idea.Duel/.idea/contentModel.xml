@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Winster332\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Duel.1551409226.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Winster332\Documents\Unity\Duel" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="GoogleMobileAds" t="Include">
+          <e p="Api" t="Include">
+            <e p="AdFailedToLoadEventArgs.cs" t="Include" />
+            <e p="AdLoader.cs" t="Include" />
+            <e p="AdPosition.cs" t="Include" />
+            <e p="AdRequest.cs" t="Include" />
+            <e p="AdSize.cs" t="Include" />
+            <e p="BannerView.cs" t="Include" />
+            <e p="CustomNativeEventArgs.cs" t="Include" />
+            <e p="CustomNativeTemplateAd.cs" t="Include" />
+            <e p="Gender.cs" t="Include" />
+            <e p="InterstitialAd.cs" t="Include" />
+            <e p="Mediation" t="Include">
+              <e p="MediationExtras.cs" t="Include" />
+            </e>
+            <e p="MobileAds.cs" t="Include" />
+            <e p="Reward.cs" t="Include" />
+            <e p="RewardBasedVideoAd.cs" t="Include" />
+          </e>
+          <e p="Common" t="Include">
+            <e p="DummyClient.cs" t="Include" />
+            <e p="IAdLoaderClient.cs" t="Include" />
+            <e p="IBannerClient.cs" t="Include" />
+            <e p="ICustomNativeTemplateClient.cs" t="Include" />
+            <e p="IInterstitialClient.cs" t="Include" />
+            <e p="IMobileAdsClient.cs" t="Include" />
+            <e p="IRewardBasedVideoAdClient.cs" t="Include" />
+            <e p="MobileAdsEventExecutor.cs" t="Include" />
+            <e p="Utils.cs" t="Include" />
+          </e>
+          <e p="Platforms" t="Include">
+            <e p="Android" t="Include">
+              <e p="AdLoaderClient.cs" t="Include" />
+              <e p="BannerClient.cs" t="Include" />
+              <e p="CustomNativeTemplateClient.cs" t="Include" />
+              <e p="InterstitialClient.cs" t="Include" />
+              <e p="MobileAdsClient.cs" t="Include" />
+              <e p="RewardBasedVideoAdClient.cs" t="Include" />
+              <e p="Utils.cs" t="Include" />
+            </e>
+            <e p="GoogleMobileAdsClientFactory.cs" t="Include" />
+            <e p="iOS" t="Include">
+              <e p="AdLoaderClient.cs" t="Include" />
+              <e p="BannerClient.cs" t="Include" />
+              <e p="CustomNativeTemplateClient.cs" t="Include" />
+              <e p="Externs.cs" t="Include" />
+              <e p="InterstitialClient.cs" t="Include" />
+              <e p="MobileAdsClient.cs" t="Include" />
+              <e p="MonoPInvokeCallbackAttribute.cs" t="Include" />
+              <e p="RewardBasedVideoAdClient.cs" t="Include" />
+              <e p="Utils.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Components" t="Include">
+            <e p="ListBoxPersons.cs" t="Include" />
+          </e>
+          <e p="Controllers" t="Include">
+            <e p="EndGameController.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+            <e p="LoginController.cs" t="Include" />
+            <e p="MenuController.cs" t="Include" />
+            <e p="PausedMenuController.cs" t="Include" />
+            <e p="StartController.cs" t="Include" />
+          </e>
+          <e p="Game" t="Include">
+            <e p="CameraController.cs" t="Include" />
+            <e p="GameSession.cs" t="Include" />
+            <e p="Logic" t="Include">
+              <e p="BulletLogic.cs" t="Include" />
+              <e p="PersonAim.cs" t="Include" />
+              <e p="PlayerLogic.cs" t="Include" />
+              <e p="RevertTimer.cs" t="Include" />
+              <e p="RivalLogic.cs" t="Include" />
+            </e>
+            <e p="ParallaxController.cs" t="Include" />
+            <e p="PhysicsTransformers" t="Include">
+              <e p="PlayerPhysicsTransformer.cs" t="Include" />
+              <e p="RivalPhysicsTransformer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Halper" t="Include">
+            <e p="GameTimer.cs" t="Include" />
+            <e p="JsonHelper.cs" t="Include" />
+            <e p="PhysicsTransformer.cs" t="Include" />
+            <e p="XmlHelper.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="Gun.cs" t="Include" />
+            <e p="Managers" t="Include">
+              <e p="GunManager.cs" t="Include" />
+              <e p="PersonManager.cs" t="Include" />
+              <e p="ProfileManager.cs" t="Include" />
+            </e>
+            <e p="Person.cs" t="Include" />
+            <e p="Profile.cs" t="Include" />
+          </e>
+          <e p="Network" t="Include">
+            <e p="RestApi.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Duel.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

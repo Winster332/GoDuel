@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Profile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PersonAvialables>
+    <int>1</int>
+    <int>4</int>
+    <int>2</int>
+    <int>3</int>
+    <int>5</int>
+  </PersonAvialables>
+  <CurrentPersonIndex>1</CurrentPersonIndex>
+  <CurrentPersonGun>1</CurrentPersonGun>
+  <AmountCoint>1036100</AmountCoint>
+</Profile>
