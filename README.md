@@ -14,5 +14,13 @@
 монеты, за которые можешь открывать новых персонажей и локации. 
 <br>
 Всего 9 персонажей и 9 локаций.
+<br>
+> Впервый раз работаю с Unity, просьба не судить строго. 
 
-![Alt Text](https://github.com/Winster332/GoDuel/blob/master/images/ezgif-4-9fd9dcf8942f.gif)
+Полную гифку можно посмотреть тут: https://twitter.com/Winster332/status/1100377679394689026
+
+<img width="460" src="https://github.com/Winster332/GoDuel/blob/master/images/ezgif-4-9fd9dcf8942f.gif">
+
+LICENCE
+-------
+[MIT License](https://github.com/Winster332/GoDuel/blob/master/LICENSE)
